@@ -3,7 +3,6 @@ tensorflow
 opencv-python
 numpy
 altair
-streamlit
 setuptools
 pyproject-hooks
 matplotlib
